@@ -12,7 +12,7 @@
 
 ---
 
-🌐 Connect With Me
+## 🌐 Connect With Me
 
 - Email: subhedarharshal1@gmail.com
 
