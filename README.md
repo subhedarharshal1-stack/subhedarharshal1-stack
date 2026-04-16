@@ -48,3 +48,12 @@
 ![Apache HBase](https://img.shields.io/badge/Apache%20HBase-0A9EDC?style=for-the-badge&logo=apache&logoColor=white)
 ![Office 365](https://img.shields.io/badge/Office365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+---
+
+## 📈 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=subhedarharshal1-stack&theme=tokyo-night&hide_border=true&area=true)
+## 🧠 Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=subhedarharshal1-stack&theme=tokyonight&hide_border=true)
